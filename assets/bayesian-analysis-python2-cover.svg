@@ -1,0 +1,46 @@
+<svg width="700" height="1000" viewBox="0 0 700 1000" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Bayesian Analysis with Python, Second Edition cover</title>
+  <desc id="desc">Dark top area with title text, orange subtitle band, cyan bubble-like lower artwork, and orange publisher block.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2f333a"/>
+      <stop offset="100%" stop-color="#2a2e35"/>
+    </linearGradient>
+    <linearGradient id="aqua" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3ed7cb"/>
+      <stop offset="100%" stop-color="#4ec7bb"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+  </defs>
+
+  <rect width="700" height="1000" fill="url(#bg)"/>
+
+  <g fill="#f5f5f5" font-family="Inter, Arial, sans-serif" font-weight="800">
+    <text x="52" y="140" font-size="78">Bayesian Analysis</text>
+    <text x="52" y="224" font-size="78">with Python</text>
+    <text x="486" y="325" font-size="44" opacity="0.9">Second Edition</text>
+  </g>
+
+  <rect x="0" y="392" width="700" height="66" fill="#f57422"/>
+  <text x="52" y="434" fill="#fff4e8" font-size="34" font-family="Inter, Arial, sans-serif">
+    Introduction to statistical modeling and probabilistic programming
+  </text>
+
+  <rect x="0" y="458" width="700" height="426" fill="url(#aqua)"/>
+  <g opacity="0.5" fill="#f6ffff" filter="url(#soft)">
+    <circle cx="95" cy="562" r="68"/>
+    <circle cx="260" cy="600" r="76"/>
+    <circle cx="420" cy="560" r="82"/>
+    <circle cx="580" cy="618" r="90"/>
+    <circle cx="146" cy="742" r="84"/>
+    <circle cx="334" cy="756" r="96"/>
+    <circle cx="528" cy="758" r="80"/>
+  </g>
+
+  <rect x="476" y="812" width="224" height="188" fill="#f57422"/>
+  <text x="500" y="924" fill="#ffffff" font-size="62" font-family="Inter, Arial, sans-serif" font-weight="700">Packt</text>
+
+  <text x="52" y="964" fill="#f0f0f0" font-size="36" font-family="Inter, Arial, sans-serif">Osvaldo Martin</text>
+</svg>
